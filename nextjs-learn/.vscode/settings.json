@@ -1,0 +1,12 @@
+{
+    "reactSnippets.settings.importReactOnTop": true,
+    "editor.foldingImportsByDefault": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "markdown.editor.quickSuggestions": true,
+    "emmet.useInlineCompletions": true,
+    "terminal.integrated.suggest.quickSuggestions": {
+        "commands": "on",
+        "arguments": "on"
+    },
+    "editor.quickSuggestionsDelay": 5
+}
